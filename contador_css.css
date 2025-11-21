@@ -6,7 +6,7 @@
 body{
     text-align: center;
     margin: 10px auto;
-    background-color: rgb(240, 240, 241);
+    background-color: rgb(153, 74, 218);
 }
 .contador{
     margin: 10px;
@@ -39,3 +39,4 @@ body{
     padding: 10px;
     border: solid rgb(235, 22, 22) 5px;
 }
+
