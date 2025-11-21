@@ -7,14 +7,17 @@ let contador=0;
 
 incrementar.addEventListener('click',()=>{
     //contador++;
-    contador=contador+100000000000;
+    contador=contador+1;
     text.textContent=contador;
 });
+
 disminuir.addEventListener('click',()=>{
     contador--;
     text.textContent=contador;
 });
+
 reset.addEventListener('click',()=>{
     contador=0;
     text.textContent=contador;
+
 });
